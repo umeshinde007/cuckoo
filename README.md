@@ -1,7 +1,7 @@
 Cuck(at)oo Cycle
 ================
 
-[Blog article explaining Cuckoo Cycle](http://cryptorials.io/beyond-hashcash-proof-work-theres-mining-hashing)
+[Blog article explaining Cuckoo Cycle]([http://cryptorials.io/beyond-hashcash-proof-work-theres-mining-hashing](https://www.cryptogurureview.com/))
 
 [Whitepaper](doc/cuckoo.pdf?raw=true)
 
